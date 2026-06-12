@@ -1,4 +1,4 @@
-# ¡Hola, soy Leonardo (Leo) Tello! 👋
+# ¡Hola, soy Leonardo Tello! 👋
 
 Estudiante de **Tecnicatura Universitaria en Programación** en UTN FRGP,
 en transición de instructor de tenis a desarrollador de software.
