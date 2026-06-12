@@ -1,9 +1,4 @@
 # ¡Hola, soy Leonardo Tello! 👋
-## 🌱 Actualmente aprendiendo
-Java + Spring Boot | ASP.NET Web API | React
-## 💼 Buscando
-Mi primera oportunidad profesional como **Software Developer Junior**.
----
 ## 🛠️ Tecnologías
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,cpp,sqlserver&theme=dark)](https://skillicons.dev)
 ---
