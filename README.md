@@ -4,7 +4,7 @@ Estudiante de **Tecnicatura Universitaria en Programación** en UTN FRGP.
 ## 🌱 Actualmente aprendiendo
 Java + Spring Boot | ASP.NET Web API | React
 ## 💼 Buscando
-Mi primera oportunidad profesional como **Software Developer Trainee**.
+Mi primera oportunidad profesional como **Software Developer Junior**.
 ---
 ## 🛠️ Tecnologías
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,react,cpp,sqlserver&theme=dark)](https://skillicons.dev)
