@@ -1,26 +1,31 @@
-# Hi there, I'm Leonardo (Leo) 👋
+# ¡Hola, soy Leonardo (Leo) Tello! 👋
 
-I'm a **Programming student** at UTN FRGP finishing my degree in 2027, transitioning from tennis instructor to software developer.  
-Based in Buenos Aires 🇦🇷 | Originally from Peru 🇵🇪
+Estudiante de **Tecnicatura Universitaria en Programación** en UTN FRGP,
+en transición de instructor de tenis a desarrollador de software.
+📍 Buenos Aires, Argentina 🇦🇷 | Originario de Perú 🇵🇪
 
-## 🔭 Currently working on
-**Medical Appointment System** A full-stack web app built with ASP.NET WebForms + C# + SQL Server (university project)
+---
 
-## 🌱 Currently learning
-Java & Spring Boot (targeting junior backend roles)
-React + ASP.NET Web API
+## 🔭 Actualmente trabajando en
+**Sistema de Turnos Médicos** — App web con ASP.NET WebForms + C# + SQL Server (proyecto universitario)
 
-## 💼 Looking for
-My first IT role as a **Junior Backend Developer**
+## 🌱 Actualmente aprendiendo
+Java & Spring Boot | React + ASP.NET Web API
 
-## 🛠️ Tech Stack
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+## 💼 Buscando
+Mi primer rol IT como **Desarrollador Backend Junior**
 
-## 📫 How to reach me
-- 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-tello-moscoso/)
-- 📧 leonardotello13@gmail.com
+---
+
+## 🛠️ Tecnologías
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,react,cpp,sqlserver&theme=dark)](https://skillicons.dev)
+
+---
+
+## 📫 Contacto
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@leonardotello4403)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardotelloo/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardotello13@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-tello-moscoso/)
