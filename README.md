@@ -4,7 +4,7 @@
 - 🔭 Actualmente desarrollando un Sistema de Turnos Médicos (proyecto universitario)
 - 🌱 Aprendiendo Java & Spring Boot para orientarme al desarrollo backend
 - 👯 Abierto a colaborar en proyectos open source o académicos
-- 📫 Contacto: leonardotello13@gmail.com · [LinkedIn](https://www.linkedin.com/in/leonardo-tello-moscoso/)
+- 📫 Contacto: leonardotello13@gmail.com
 
 ```javascript
 const Leo = {
