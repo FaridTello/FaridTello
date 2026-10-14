@@ -1,10 +1,10 @@
-# ¡Hola! Soy Leonardo Tello 👋
+# Hi! I'm Leonardo Tello 👋
 
-- 🎓 Estudiante de la Tecnicatura Universitaria en Programación en la UTN FRGP
-- 🔭 Actualmente desarrollando un Sistema de Turnos Médicos (proyecto universitario)
-- 🌱 Aprendiendo Java & Spring Boot para orientarme al desarrollo backend
-- 👯 Abierto a colaborar en proyectos open source o académicos
-- 📫 Contacto: leonardotello13@gmail.com
+- 🎓 Programming student (Tecnicatura Universitaria en Programación) at UTN FRGP
+- 🔭 Currently working on a Medical Appointment System (university project)
+- 🌱 Learning Java & Spring Boot to focus on backend development
+- 👯 Open to collaborating on open source or academic projects
+- 📫 Contact: leonardotello13@gmail.com
 
 ```javascript
 const Leo = {
